@@ -9,8 +9,7 @@ I'm a software developer focused on Android (Java) and game development at the m
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelosls&layout=compact&theme=dark&hide_border=true)
 
 ## 🔧 Tech Stack
-- 💻 Java | Android Studio | XML Layouts | Retrofit
-- 🌐 REST APIs | JSON | Postman
+- 💻 Java | Android Studio | XML Layouts
 - 🎮 Unity | C#
 - 🛠️ Git | GitHub | Trello
 
