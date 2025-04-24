@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Marcelo Leal!
+# 👋 Hi, I'm Marcelo!
 
 I'm a software developer focused on Android (Java) and game development at the moment. Currently working on a relationship app in partnership with **INSEXBA** as part of my academic project at **Faculdade Visconde de Cairu**.
 
