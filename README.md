@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Marcelo!
+👋 Hi, I'm Marcelo!
 
-I'm a software developer focused on Android (Java) and game development at the moment. Currently working on a relationship app in partnership with **INSEXBA** as part of my academic project at **Faculdade Visconde de Cairu**.
-
+I'm a software developer currently focused on Python. I'm working at Agtechx, a company specialized in engineering and geotechnics, as a developer trainee.
 ## 📊 GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Marcelosls&show_icons=true&theme=dark&hide_border=true)
@@ -9,9 +8,9 @@ I'm a software developer focused on Android (Java) and game development at the m
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelosls&layout=compact&theme=dark&hide_border=true)
 
 ## 🔧 Tech Stack
-- 💻 Java | Android Studio | XML Layouts
+- 💻 Java | Android Studio | Python
 - 🎮 Unity | C#
-- 🛠️ Git | GitHub | Trello
+- 🛠️ Git | GitHub | Trello | Figma | GIMP
 
 ## 🎓 Projects
 - **💘 Relationship App (INSEXBA Project)**  
